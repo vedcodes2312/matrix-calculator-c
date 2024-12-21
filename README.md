@@ -6,7 +6,9 @@
 GITHUB: vedcodes2312 </p>
 
 <img src="multiply_matrices.gif" alt="Matrix Calculator" width="500"/>
-
+<br>
+<p> 
+Courtesy<a href="https://www.mscroggs.co.uk/blog/73">https://www.mscroggs.co.uk/blog/73</a></p>
 <p>
   MIT License
 
