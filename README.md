@@ -2,7 +2,8 @@
 <p>Project : An advanced calculator coded in C to perform matrix operations</p>
 
 <p>by Ved Vyas
-GITHUB: <a href="github.com/vedcodes2312">vedcodes2312 </a></p>
+  <br>
+GITHUB: vedcodes2312 </p>
 
 <p>
   MIT License
