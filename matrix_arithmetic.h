@@ -12,7 +12,7 @@ void matrix_multiplication(int **matrix1, int **matrix2, int **result, int rowsm
 
 /*            MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2024 Ved Vyas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
