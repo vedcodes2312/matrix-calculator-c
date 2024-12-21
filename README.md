@@ -5,6 +5,8 @@
   <br>
 GITHUB: vedcodes2312 </p>
 
+<img src="multiply_matrices.gif" alt="Matrix Calculator" width="500"/>
+
 <p>
   MIT License
 
